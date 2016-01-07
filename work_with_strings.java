@@ -1,6 +1,6 @@
 public static void main(String[] args) {
 		
-		// 1. Друкую довільні два рядки "a" i "b"
+		// 1. Друкую довільний рядок "a"
 		String a = " Hello from Java ";
 		System.out.println (a);
 		
