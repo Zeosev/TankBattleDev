@@ -1,3 +1,5 @@
+public class Lessons_strings
+
 public static void main(String[] args) {
 		
 		// 1. Друкую довільний рядок "a"
@@ -18,3 +20,6 @@ public static void main(String[] args) {
 		// 5. Дізнаюсь чи можливо вивести на екран порожній рядок :)
 		String text = "  ";
 		System.out.print (text);
+		
+	}
+}
